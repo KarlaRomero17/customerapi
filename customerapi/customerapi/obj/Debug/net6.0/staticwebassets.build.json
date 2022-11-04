@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "eg0o80U368smBDt5o8I/2z0vPO53mVDJyIkHfd+6oY8=",
+  "Source": "customerapi",
+  "BasePath": "_content/customerapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
